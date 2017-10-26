@@ -1801,7 +1801,7 @@ a.fix-nav {
     background: transparent !important;
 }
 .gn-menu-main {
-    background: rgba(0, 0, 0, .86);
+    background: rgb(60, 60, 60, 60);
 }
 .gn-menu li.rightActive > a {
     -webkit-box-shadow: inset 3px 0 0 0 #CC7B19;
