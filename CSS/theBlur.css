@@ -978,7 +978,7 @@ div.mCSB_dragger_bar {
         z-index: 999999999999999999999999999999999;
         position: fixed;
         max-height: 77vh;
-        background: #191a1c !important;
+        background: #ffffff !important;
         max-width: 500px;
         -webkit-box-shadow: 0 15px 55px rgba(0, 0, 0, .5);
         box-shadow: 0 15px 55px rgba(0, 0, 0, .5);
